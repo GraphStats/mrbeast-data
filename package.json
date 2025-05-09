@@ -1,0 +1,13 @@
+{
+  "name": "live-counter-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "node-fetch": "^2.7.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
